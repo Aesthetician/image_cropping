@@ -1,18 +1,3 @@
-# uncompyle6 version 3.2.5
-# Python bytecode 2.7 (62211)
-# Decompiled from: Python 3.5.2 (default, Nov 12 2018, 13:43:14) 
-# [GCC 5.4.0 20160609]
-# Embedded file name: /home/zongfu/workspace/remoteServ/zf.working/workspace/ssd_fp_feature/ssd_fp_192_hard22k_random28k_wi_night/my_file_api.py
-# Compiled at: 2019-03-21 13:33:51
-r"""Crop images accroding to the ROI
-
-Author: ZF Hsieh
-Date: 2/7/2019
-Example usage:
-    python blend_data_set.py \
-        --data_dir=/home/user/dataset/trainset \
-        --shuffle=True
-"""
 import os, re, json
 from collections import defaultdict
 
